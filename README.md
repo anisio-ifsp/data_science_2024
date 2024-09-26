@@ -17,5 +17,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir *issues* ou *pul
 <p align="center">
     <img src="img/logo-ifsp-boituva.png" alt="Logo do IFSP Boituva" />
 </p>
-
-![alt text](img/logo-ifsp-boituva.png)
