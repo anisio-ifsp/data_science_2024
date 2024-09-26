@@ -14,8 +14,8 @@ Para qualquer erro ou omissão, entre em contato pelo e-mail: [anisio.silva@ifsp
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir *issues* ou *pull requests*.
 
-<div style="text-align: center;">
+<p align="center">
     <img src="img/logo-ifsp-boituva.png" alt="Logo do IFSP Boituva" />
-</div>
+</p>
 
 ![alt text](img/logo-ifsp-boituva.png)
