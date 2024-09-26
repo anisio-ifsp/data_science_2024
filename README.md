@@ -12,7 +12,7 @@ Para qualquer erro ou omissão, entre em contato pelo e-mail: [anisio.silva@ifsp
 
 ## Imagem do Projeto
 
-![Descrição da imagem](img\logo-ifsp-boituva.png)  <!-- Substitua "link-para-a-imagem.jpg" pelo caminho da sua imagem -->
+!img\logo-ifsp-boituva.png <!-- Substitua "link-para-a-imagem.jpg" pelo caminho da sua imagem -->
 
 ## Contribuições
 
